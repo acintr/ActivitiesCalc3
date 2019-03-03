@@ -8,18 +8,31 @@ It is required that the input comes in the following format:
 and must be placed in the same directory as script. The input
 format for problems is as follows:
 
+
+
 Activity_Number:Quantity_of_Problems
+
 Example:
+
 1:10
+
 2:8
+
 3:5
+
 
 *For the students that will participate, the input file shall be named
 students.txt, and must be placed in the same directory as script. The
 input format for students is as follows:
 
+
+
 Student_Name
+
 Example:
+
 JohnSmith
+
 Mike
+
 Billy
