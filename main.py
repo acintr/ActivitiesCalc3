@@ -29,6 +29,7 @@ Billy
 import random
 import os
 
+
 class Student:
     def __init__(self, name):
         """
@@ -72,9 +73,6 @@ class Student:
             s += '}\n'
         return s
 
-    # def get_num_assigned(self):
-    #     return self.assigned
-
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
@@ -113,7 +111,7 @@ except FileNotFoundError:
 if len(students) == 0:
     print('No students are participating')
 else:
-    excess = total_problems%len(students)           # Residue of problems / students
+    excess = total_problems % len(students)           # Residue of problems / students
     num_problems = total_problems-excess            # Number of problems - residue
     prob_per_std = int(num_problems/len(students))  # Problems per student, without residue
 
@@ -153,5 +151,4 @@ else:
         print('Distribution calculated successfully!'
               '\nResults can be found at:', os.getcwd()+'/results.txt')
     except Exception:
-        f.close()
         print('Something went wrong while printing results.')

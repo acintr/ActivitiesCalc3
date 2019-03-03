@@ -8,83 +8,83 @@ Porblems per student (without residue): 6
 RESULTS
 
 Amaracuo, you have 6 problems assigned:
-From activity 1 { 1,}
-From activity 6 { 1,}
-From activity 7 { 6,}
-From activity 8 { 5,}
-From activity 10 { 9, 3,}
+From activity 2 { 4,}
+From activity 4 { 3, 1,}
+From activity 6 { 7,}
+From activity 7 { 7, 6,}
 
 Fren, you have 6 problems assigned:
-From activity 2 { 5, 4,}
-From activity 8 { 6,}
-From activity 9 { 5,}
-From activity 10 { 13, 5,}
+From activity 2 { 3, 2,}
+From activity 4 { 7,}
+From activity 7 { 5,}
+From activity 9 { 10, 4,}
 
 Changoma, you have 6 problems assigned:
-From activity 3 { 4, 2,}
-From activity 4 { 7,}
-From activity 5 { 2,}
-From activity 6 { 7, 4,}
+From activity 1 { 3,}
+From activity 2 { 8,}
+From activity 5 { 1,}
+From activity 6 { 1,}
+From activity 9 { 9, 8,}
 
 Gargola, you have 6 problems assigned:
-From activity 4 { 1,}
-From activity 7 { 1,}
-From activity 9 { 8, 6,}
-From activity 10 { 8, 7,}
+From activity 1 { 9,}
+From activity 2 { 5,}
+From activity 6 { 6, 4,}
+From activity 7 { 2,}
+From activity 8 { 6,}
 
 Troglodita, you have 6 problems assigned:
-From activity 7 { 4, 2,}
-From activity 9 { 3, 1,}
-From activity 10 { 11, 10,}
+From activity 1 { 10, 8, 4,}
+From activity 4 { 4,}
+From activity 7 { 3,}
+From activity 8 { 5,}
 
 Humanoide, you have 6 problems assigned:
-From activity 1 { 4, 2,}
-From activity 2 { 7, 6,}
-From activity 4 { 6, 5,}
+From activity 1 { 6,}
+From activity 3 { 2,}
+From activity 6 { 5, 3,}
+From activity 7 { 4, 1,}
 
 Subnormal, you have 6 problems assigned:
-From activity 1 { 10,}
-From activity 3 { 1,}
-From activity 6 { 9, 2,}
-From activity 9 { 9, 7,}
+From activity 1 { 5,}
+From activity 2 { 7, 1,}
+From activity 3 { 3,}
+From activity 8 { 3, 2,}
 
 Proton, you have 6 problems assigned:
-From activity 1 { 5,}
-From activity 4 { 4,}
-From activity 6 { 3,}
-From activity 7 { 3,}
-From activity 8 { 4, 3,}
+From activity 1 { 2,}
+From activity 9 { 7, 5,}
+From activity 10 { 13, 2, 1,}
 
 Electron, you have 6 problems assigned:
-From activity 1 { 8,}
-From activity 2 { 2,}
-From activity 3 { 3,}
-From activity 4 { 2,}
-From activity 7 { 5,}
-From activity 8 { 1,}
+From activity 3 { 5,}
+From activity 6 { 9,}
+From activity 9 { 6, 3,}
+From activity 10 { 7, 5,}
 
 Neutron, you have 6 problems assigned:
-From activity 1 { 7, 6,}
-From activity 3 { 5,}
-From activity 6 { 8,}
-From activity 7 { 7,}
-From activity 8 { 2,}
+From activity 1 { 1,}
+From activity 4 { 2,}
+From activity 5 { 2,}
+From activity 8 { 4,}
+From activity 10 { 12, 9,}
 
 Positron, you have 6 problems assigned:
-From activity 2 { 1,}
-From activity 5 { 1,}
-From activity 6 { 6,}
-From activity 9 { 10, 4,}
-From activity 10 { 12,}
+From activity 1 { 7,}
+From activity 3 { 1,}
+From activity 8 { 1,}
+From activity 9 { 2,}
+From activity 10 { 11, 10,}
 
 Moron, you have 6 problems assigned:
-From activity 4 { 3,}
-From activity 9 { 2,}
-From activity 10 { 6, 4, 2, 1,}
+From activity 3 { 4,}
+From activity 4 { 6, 5,}
+From activity 6 { 8, 2,}
+From activity 10 { 4,}
 
 Potron, you have 6 problems assigned:
-From activity 1 { 9, 3,}
-From activity 2 { 8, 3,}
+From activity 2 { 6,}
 From activity 5 { 3,}
-From activity 6 { 5,}
+From activity 9 { 1,}
+From activity 10 { 8, 6, 3,}
 
